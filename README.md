@@ -25,7 +25,7 @@ This repository gives you a starting point for Gnu Emacs with good defaults, opt
 Kickstart.emacs is **not** a distribution. <br>
 It's a template for your own configuration.
 
-This config is:
+This config is:+1
 -   A single file **org document** (with examples of moving to multi-file)
 -   Modular and easily configurable
 -   Documented describing its purpuse
@@ -66,10 +66,10 @@ Their content helped me to create this configuration.
 - [Vertico](https://github.com/minad/vertico): Provides a performant and minimalistic vertical completion UI.
 - [Marginalia](https://github.com/minad/marginalia): Adds extra metadata for completions in the margins (like descriptions).
 - [Orderless](https://github.com/oantolin/orderless): Completion style that matches candidates in any order
-- [Embark](https://github.com/oantolin/embark): Emacs Mini-Buffer Actions Rooted in Keymaps 
+- [Embark](https://github.com/oantolin/embark): Emacs Mini-Buffer Actions Rooted in Keymaps
 - Optin: [Jinx](https://github.com/minad/jinx): Enchanted Spell Checker
 - [Consult](https://github.com/minad/consult): Provides search and navigation commands.
-- [Helpful](https://github.com/Wilfred/helpful): A better Emacs *help* buffer 
+- [Helpful](https://github.com/Wilfred/helpful): A better Emacs *help* buffer
 - [Diminish](https://github.com/myrjola/diminish.el): Hiding or abbreviation of the modeline displays
 - [Rainbow Delimiters](https://github.com/Fanael/rainbow-delimiters): Adds colors to brackets.
 - [Hl-todo](https://github.com/tarsius/hl-todo): Highlight TODO keywords.
